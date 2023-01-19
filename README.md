@@ -1,2 +1,2 @@
 # odin-recipes
-Odin HTML Recipes Project
+Recipes of popular Vietnamese dishes
